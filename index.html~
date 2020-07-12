@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Pernikahan Asep &amp; Ria</title>
+    <title>Pernikahan Mempelai Wanita &amp; Pria</title>
     <meta name="description" content="Wedding invite site">
-    <meta name="keywords" content="wedding, ria">
-    <meta name="author" content="asep">
+    <meta name="keywords" content="wedding, tutik">
+    <meta name="author" content="bagus">
 
     <meta charset="UTF-8">
 
@@ -16,12 +16,12 @@
     <link href='assets/img/wedding-icon.png' rel='shortcut icon'/>
   </head>
   <body>
-  <!--<ul>
+  <ul>
   <li><a href="#home" class="anchor">Beranda</a></li>
   <li><a href="#kisah" class="anchor">Kisah Kami</a></li>
   <li><a href="#akad" class="anchor">Akad & Resepsi</a></li>
   <li><a href="#ucapan" class="anchor">Ucapan</a></li>
-  </ul>-->
+  </ul>
     
 
     <!--<a name="home"></a>-->
@@ -33,13 +33,14 @@
           <img src="assets/img/caricatures-400.png" style="margin-top: -80px;" />-->
    <br><br><br><center>
 	<img src="assets/img/header-text-500.png" style="margin-top: -50px" />
-     <img src="assets/img/asepria.png" width="350" height="300" style="margin-top: -80px;"></img><br>
-          <span style="font-size: 19px;">Ria Eka Yuliyanti, S.Kom</span>&nbsp;
+          <!--<img src="assets/img/baguslia1.png" style="margin-top: -80px;" />--><br><br><br>
+     <img src="assets/img/avatar.png" width="350" height="300" style="margin-top: -80px;"></img><br>
+          <span style="font-size: 30px;">Qodriana Hidayat</span>&nbsp;
           <span style="color: rgb(212, 90, 90); font-size: 23px;">&</span>&nbsp;&nbsp;
-          <span style="font-size: 19px;">Asep Supriyanto, S.Kom</span>
+          <span style="font-size: 30px;">Tri Puji Astuti</span>
           <br/>
-          <span style="font-size: 16px;">Kp Pisangan Aries, RT 03/RW 01 Desa Sarakan Kec. Sepatan Kab. Tangerang - Banten
-</center>
+          <span style="font-size: 19px;">Jl. Kiatmo Sarjono No.06 RT 03/RW 03 Gundih Kel. Geyer Kec. Geyer
+Kab. Grobogan, Jawa Tengah (Samping SMP N 1 Geyer) &nbsp;&nbsp;</center>
 <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31665.411595731788!2d110.88271533938278!3d-7.220704716380344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e70a620dee60fd7%3A0x5027a76e355c120!2sGeyer%2C+Kabupaten+Grobogan%2C+Jawa+Tengah!5e0!3m2!1sid!2sid!4v1469948854367" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 -->    <!--<a href="https://www.google.co.in/maps/place/New+Woodlands+Hotel/@13.0453638,80.2619698,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x24234c08cad8f102" target="_blank"><img src="assets/img/maps-24.png" /></a>
           </span>
@@ -61,24 +62,24 @@
           <tbody>
             <tr>
               <td style="width: 50%; font-size: 20px;" colspan="2">
-                <strong>Rabu, 19 Agustus 2020</strong>
+                <strong>Sabtu, 24 September 2016</strong>
               </td>
               <td style="width: 50%; font-size: 20px;" colspan="2">
                 <strong>Keluarga yang berbahagia :</strong>
               </td>
             </tr>
             <tr>
-              <td style="width: 50px;">08:30 WIB</td>
+              <td style="width: 50px;">08:00 WIB</td>
               <td>Akad Nikah</td>
               <td style="width: 50px;">Keluarga Mempelai Pria</td>
-              <td>Muhammad Abeng & Siti Khumairoh</td>
+              <td>Bapak Suharso & Ibu Darmi</td>
             </tr>
             <tr>
               <td rowspan="4">11.00 WIB</td>
               <td rowspan="4">Resepsi<br/>
               </td>
               <td>Keluarga Mempelai Wanita</td>
-              <td>Muhammad & Siti Romlah
+              <td>Bapak Sugiyo & Ibu Sudarti
               </td>
             </tr>
                       </tbody>
@@ -103,7 +104,7 @@
 <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 
 <div id="id_name">
-       <fb:comments href="https://www.facebook.com/asep.rizal.522/" num_posts="10" width="700px" style="position:relative;display:block;">
+       <fb:comments href="https://www.facebook.com/teknopediaasia/" num_posts="10" width="700px" style="position:relative;display:block;">
        </fb:comments> `
         <!--<form action="https://docs.google.com/forms/d/1vYXFgw_c4NHof0ajLO2xAaewArgE3njMHCe6kmjzkzA/formResponse" method="POST" id="ss-form" target="_blank" style="border: 1px dashed #036; padding: 10px; width: 100%; box-shadow: 0px 0px 5px; display: none;">
           Full Name
