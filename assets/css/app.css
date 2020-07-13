@@ -38,7 +38,7 @@ body {
   font-family: 'Patrick Hand', cursive;
   font-size: 14px;
   /*background: #fac #c1e8ea /*url(/assets/img/pattern.png);*/
-  background: #1365029c url(/assets/img/pattern.png);
+  background: #1365029c;
 }
 
 #container {
